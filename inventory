@@ -1,1 +1,1 @@
-kops
+kops ansible_user=ubuntu
